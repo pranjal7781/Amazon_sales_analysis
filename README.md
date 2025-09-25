@@ -18,8 +18,6 @@ This project uses both Python and Power BI to analyze the same dataset from diff
 - **Python**: For deep EDA, custom visualizations, and automation.
 - **Power BI**: For dynamic dashboards and interactive business intelligence.
 
-
-
 ## 📈 Key Insights
 - Monthly sales trends
 - Product category revenue distribution
