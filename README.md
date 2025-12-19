@@ -5,7 +5,7 @@ This project explores sales data from Amazon to uncover patterns in revenue, pro
 
 ## 🛠 Tools & Technologies
 - Python
-- Pandas 
+- Pandas
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
