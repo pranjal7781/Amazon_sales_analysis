@@ -9,7 +9,7 @@ This project explores sales data from Amazon to uncover patterns in revenue, pro
 - Seaborn
 - Jupyter Notebook
 - Power BI
-
+ 
 ## 🖥️ Multi-Tool Approach
 This project uses both Python and Power BI to analyze the same dataset from different angles: 
 
