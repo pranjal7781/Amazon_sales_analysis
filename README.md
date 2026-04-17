@@ -1,7 +1,7 @@
 # 📊 Amazon Sales Data Analysis
   
 This project explores sales data from Amazon to uncover patterns in revenue, product performance, and customer behavior using Python and data visualization tools.
-  
+   
 ## 🛠 Tools & Technologies 
 - Python
 - Pandas
